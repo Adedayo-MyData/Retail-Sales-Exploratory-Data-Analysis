@@ -237,7 +237,7 @@ The dataset contains **5,050 retail transactions** with 9 variables describing t
 
 ---
 
-## 🔧 Project Files
+## 16 Project Files
 
 - [EDA Notebook](notebooks/retail_sales_eda.ipynb) – Exploratory Data Analysis, data cleaning, and visualizations  
 - [Raw Dataset](data/retail_sales_raw.csv) – Original sales data  
