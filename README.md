@@ -237,29 +237,12 @@ The dataset contains **5,050 retail transactions** with 9 variables describing t
 
 ---
 
-## 16. Repository Structure
+## 🔧 Project Files
 
-retail-sales-eda/
-¦
-+-- data/
-¦ +-- retail_sales_raw.csv
-¦
-+-- notebooks/
-¦ +-- retail_sales_eda.ipynb
-¦
-+-- images/
-¦ +-- Discount_Distribution.png
-¦ +-- Monthly_Sales_Trend.png
-¦ +-- Outlier_Detection.png
-¦ +-- Product_by_Region_Heatmap.png
-¦ +-- Quantity_Distribution.png
-¦ +-- Sales_by_Region.png
-¦ +-- UnitPrice_Distribution.png
-¦
-+-- outputs/
-¦ +-- data_preprocessed.csv
-¦
-+-- README.md
+- [EDA Notebook](notebooks/retail_sales_eda.ipynb) – Exploratory Data Analysis, data cleaning, and visualizations  
+- [Raw Dataset](data/retail_sales_raw.csv) – Original sales data  
+- [Preprocessed Dataset](outputs/data_preprocessed.csv) – Cleaned dataset for analysis  
+- [Images](images/) – Visualizations including sales trends, distributions, outliers, and heatmaps  
 
 ---
 
